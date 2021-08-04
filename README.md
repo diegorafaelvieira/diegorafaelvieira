@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Diego Rafael Vieira <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="auto"/>
 
-- 🎯 Técnico em Informática - Colégio Luterano Concórdia São Leopoldo 
+- 🎯 Técnico em Informática - Colégio Luterano Concórdia, São Leopoldo 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas - IFRS Campus Feliz
 - 📖 Alunos das plataformas: NodeStudio, Origamid, Curso em Vídeo e B7Web
 - 🧠 Atualmente estudando HTML, CSS e PHP
