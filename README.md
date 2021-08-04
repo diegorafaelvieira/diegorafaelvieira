@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Diego Rafael Vieira
 
-- 🔭 Atualmente estudante de Análise e Desenvolvimento de Sistemas - IFRS Campus Feliz
-- 🌱 Estudando HTML, CSS
-- 🤔 I’m looking for help with ...
+- 💻 Atualmente estudante de Análise e Desenvolvimento de Sistemas - IFRS Campus Feliz
+- 🧠 Estudando HTML, CSS e PHP
+
 
 <div>
  <a href="https://github.com/diegorafaelvieira">
