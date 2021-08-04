@@ -1,4 +1,4 @@
-## Olá! Eu sou o Diego Rafael Vieira
+## Olá! Eu sou o Diego Rafael Vieira <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="auto"/>
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas - IFRS Campus Feliz
 - 🧠 Atualmente estudando HTML, CSS e PHP
