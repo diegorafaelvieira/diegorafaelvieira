@@ -3,7 +3,6 @@
 - 🎯 Técnico em Informática - Colégio Luterano Concórdia, São Leopoldo 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas - IFRS Campus Feliz
 - 📖 Aluno das plataformas: NodeStudio, Origamid, Curso em Vídeo e B7Web
-- 🧠 Atualmente estudando HTML, CSS e PHP
 
 
 <div>
@@ -18,6 +17,7 @@
   <img align="center" alt="Diego-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Diego-Php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
+  <img align="center" alt="Diego-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
   <img align="center" alt="Diego-Git" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
   <img align="center" alt="Diego-Github" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
   <img align="center" alt="Diego-VsCode" height="35" width="35" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png">
