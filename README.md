@@ -3,7 +3,7 @@
 - 🎯 Técnico em Informática - Colégio Luterano Concórdia, São Leopoldo 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas - IFRS Campus Feliz
 - 📖 Aluno das plataformas: NodeStudio, Origamid, Curso em Vídeo e B7Web
-- 🧠 Participante do Level 1 da 3ª edição do CWI Reset
+
 
 
 <div>
