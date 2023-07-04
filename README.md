@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Diego <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="auto"/>
 
-- 🎯 Técnico em Informática - Colégio Luterano Concórdia, São Leopoldo 
 - 💻 Análise e Desenvolvimento de Sistemas - IFRS Campus Feliz
-- 📖 Aluno das plataformas: NodeStudio, Origamid, Onebitcode, Curso em Vídeo, Rocketseat e B7Web. Atualmente estou participando da formação front-end oferecida pelo InstitutoNu em parceria com a Descomplica.
+- 🎯 Técnico em Informática - Colégio Luterano Concórdia, São Leopoldo 
+- 📖 Aluno das plataformas: NodeStudio, Origamid, Onebitcode, Curso em Vídeo, Rocketseat, B7Web e +praTi. Atualmente estou participando da formação front-end oferecida pelo InstitutoNu em parceria com a Descomplica.
 
 
 
