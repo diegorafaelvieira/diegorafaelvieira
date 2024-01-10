@@ -2,7 +2,7 @@
 
 - 💻 Análise e Desenvolvimento de Sistemas - IFRS Campus Feliz
 - 🎯 Técnico em Informática - Colégio Luterano Concórdia, São Leopoldo 
-- 📖 Aluno das plataformas: NodeStudio, Origamid, Onebitcode, Curso em Vídeo, Rocketseat, B7Web e +praTi. Atualmente estou participando da Trilha de Introdução ao Design de Interação (UX/UI) oferecido pela +praTi em parceria com a TIC em Trilhas.
+- 📖 Aluno das plataformas: NodeStudio, Origamid, Onebitcode, Curso em Vídeo, Rocketseat, B7Web e +praTi.
 
 
 
