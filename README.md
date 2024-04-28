@@ -1,13 +1,11 @@
 ## Olá! Eu sou o Diego <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="auto"/>
 
-- 💻 Análise e Desenvolvimento de Sistemas - IFRS Campus Feliz
+- 💻 Técnologo em Análise e Desenvolvimento de Sistemas - IFRS Campus Feliz
 - 🎯 Técnico em Informática - Colégio Luterano Concórdia, São Leopoldo 
 - 📖 Aluno das plataformas: NodeStudio, Origamid, Onebitcode, Curso em Vídeo, Rocketseat, B7Web e +praTi.
 
-
-
 <div style="display: inline_block"><br>
-  <h2>Linguagens e Ferramentas:</h2>
+  <h2>Linguagens, Frameworks e Ferramentas:</h2>
   <img align="center" alt="Diego-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-Bootsrapt" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
