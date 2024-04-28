@@ -16,6 +16,11 @@
   <img align="center" alt="Diego-Github" height="40" width="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">
   <img align="center" alt="Diego-VsCode" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div> 
+<br>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegorafaelvieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorafaelvieira&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
 <div>
     <h2>Contatos:</h2>
